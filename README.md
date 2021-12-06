@@ -4,4 +4,4 @@ occasional composer cowboy
 
 uhhhhhhhhhhhhhhhhhhhhhhh
 
-<img src="crocogator.jpg" alt="(spinopsys)" width="200"/>
+<img src="crocogator.png" alt="(spinopsys)" width="200"/>
