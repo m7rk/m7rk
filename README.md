@@ -6,4 +6,4 @@ occasional composer cowboy
 
 http://www.alligator.ventures
 
-icon by https://twitter.com/katamichi5963
+icon by https://twitter.com/DinkDoesArt
